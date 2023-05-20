@@ -1,3 +1,6 @@
+![pon1](https://github.com/homas344/PON.exe/assets/105157471/c5e51d9c-c1ec-45c6-b31a-cf30c59d1122)
+
+
 # PON.exe - v1.1 BETA
 
 PON.exe is a humorous software program designed for the field of computer science, specifically created with a lighthearted approach to 
